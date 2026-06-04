@@ -6,3 +6,6 @@ Power BI analysis of Ghana’s National Science & Maths Quiz (2016–2024). Expl
 ## Project Objective
 To analyze NSMQ data from the 1/8 stage upwards and uncover insights on:
 - Which schools and regions dominate the competition
+- How gender representation looks across Mixed, Boys, and Girls schools
+- The scoring power and competitiveness at different stages
+- Regional distribution of advancement and wins
