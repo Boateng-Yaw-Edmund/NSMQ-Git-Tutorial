@@ -21,3 +21,18 @@ To analyze NSMQ data from the 1/8 stage upwards and uncover insights on:
 
 1. **Data Cleaning & Prep**
    - Handled nulls with replacement (for example, “No”, “None”, “Others”).
+   - Created Stage_Label mapping (1/8 Final, Quarter, Semi, Final) for better visuals.
+   - Built measures for advancement, wins, and average scores
+
+2. **Data Modeling**
+   - Applied DAX measures (such as Total Wins, Avg_Winning_Points).
+   - Structured calculations for school dominance, gender breakdowns, and competitiveness.
+  
+3. **Visualization Design**
+   - Clustered bar charts for Stage Advancement by Region.
+   - Line charts for Gender-based scoring trends.
+   - KPI Cards for Total Schools, Average Winning Score.
+   - Ghana-focused filled map for Regional Wins.
+   - Rounded bar hack (error bars) for polished visuals.
+  
+
