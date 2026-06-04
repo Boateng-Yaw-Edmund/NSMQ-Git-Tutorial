@@ -36,3 +36,5 @@ To analyze NSMQ data from the 1/8 stage upwards and uncover insights on:
    - Rounded bar hack (error bars) for polished visuals.
   
 
+## Data Visualisation
+![dash](https://github.com/Boateng-Yaw-Edmund/NSMQ-Dashboard-Analysis/blob/main/NSMQ/NSMQ%20analysis.png)
