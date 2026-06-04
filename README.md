@@ -38,3 +38,11 @@ To analyze NSMQ data from the 1/8 stage upwards and uncover insights on:
 
 ## Data Visualisation
 ![dash](https://github.com/Boateng-Yaw-Edmund/NSMQ-Dashboard-Analysis/blob/main/NSMQ/NSMQ%20analysis.png)
+
+## Dax Measures
+1[dax1](https://github.com/Boateng-Yaw-Edmund/NSMQ-Dashboard-Analysis/blob/main/NSMQ/Screenshot%202025-10-02%20123847.png)
+![dax2](https://github.com/Boateng-Yaw-Edmund/NSMQ-Dashboard-Analysis/blob/main/NSMQ/Screenshot%202025-10-02%20123826.png)
+![dax3](https://github.com/Boateng-Yaw-Edmund/NSMQ-Dashboard-Analysis/blob/main/NSMQ/Screenshot%202025-10-02%20123517.png)
+![dax4](https://github.com/Boateng-Yaw-Edmund/NSMQ-Dashboard-Analysis/blob/main/NSMQ/Screenshot%202025-10-02%20123927.png)
+![dax5](https://github.com/Boateng-Yaw-Edmund/NSMQ-Dashboard-Analysis/blob/main/NSMQ/Screenshot%202025-10-02%20123906.png)
+
