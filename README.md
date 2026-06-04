@@ -46,3 +46,5 @@ To analyze NSMQ data from the 1/8 stage upwards and uncover insights on:
 ![dax4](https://github.com/Boateng-Yaw-Edmund/NSMQ-Dashboard-Analysis/blob/main/NSMQ/Screenshot%202025-10-02%20123927.png)
 ![dax5](https://github.com/Boateng-Yaw-Edmund/NSMQ-Dashboard-Analysis/blob/main/NSMQ/Screenshot%202025-10-02%20123906.png)
 
+## Key Insights
+- **School Dominance** Certain schools consistently rack up high points, showing scoring power beyond just wins.
