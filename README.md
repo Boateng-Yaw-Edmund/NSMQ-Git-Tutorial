@@ -48,3 +48,9 @@ To analyze NSMQ data from the 1/8 stage upwards and uncover insights on:
 
 ## Key Insights
 - **School Dominance** Certain schools consistently rack up high points, showing scoring power beyond just wins.
+- **Regional Strength** Greater Accra and Central dominate wins, but other regions consistently push schools into Quarters and Semis.
+- **Gender Representation** Boys’ schools dominate participation, but Girls’ schools are making strong runs into Semis and Finals.
+- **Competitiveness** Some contests are nail-bitingly close (margin under 5 points), showing how tight the competition can get.
+
+## Explore the Dashboard
+**[Click here to interract with the dashboard](https://app.powerbi.com/view?r=eyJrIjoiMjNhMTZhMGUtNWVmMi00N2Y5LTg0MDUtNzI1YTZmMzkxNjc3IiwidCI6IjEwNGQ4MDQ4LWZkMGMtNDNkNS1hNjMwLWZjNjI5ZTVkYWI1OSJ9)**
