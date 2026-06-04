@@ -1,3 +1,2 @@
 # NSMQ-Git-Tutorial
-
-## NSQM Git
+![nsmq](https://github.com/Boateng-Yaw-Edmund/NSMQ-Dashboard-Analysis/blob/main/NSMQ/nsmq.jpg)
