@@ -17,3 +17,7 @@ To analyze NSMQ data from the 1/8 stage upwards and uncover insights on:
 - Average Scores by Year & Gender: Trend comparison across 8 years.
 - Stage Advancement by Region: Number of schools per region reaching Quarter, Semi, Final.
 
+## Project Process
+
+1. **Data Cleaning & Prep**
+   - Handled nulls with replacement (for example, “No”, “None”, “Others”).
